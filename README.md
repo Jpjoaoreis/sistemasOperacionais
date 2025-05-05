@@ -14,3 +14,6 @@ gcc -o banker banker.c -lpthread
 ## Requisitos
 GCC
 Sistema Linux com suporte a pthread
+
+## Observações
+A pasta possui dois arquivos onde um possui print das fases mostrando as interações para facilitar visualização
